@@ -1,7 +1,6 @@
 # Advert :microphone: 
 ###  Developed  by Dr Francis Agbaraolorunpo
 
- ![advert](https://picsum.photos/id/77/450/300)
  ![image](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXpoeDVrMWVlNW95MzNzazl3YzBreG83eTA1NmJ3eHZjMWhiM211eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2JJrTTQyOIRM8R0c/giphy.gif)
   
   
